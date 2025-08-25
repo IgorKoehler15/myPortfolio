@@ -71,17 +71,14 @@ O objetivo é apresentar meus projetos, habilidades e um pouco sobre minha traje
 
 ## 🌍 Deploy
 
-Este portfólio pode ser hospedado facilmente em plataformas como:  
-- [Vercel](https://vercel.com/)  
-- [Netlify](https://www.netlify.com/)  
-- [GitHub Pages](https://pages.github.com/)  
+Link do portfólio hospedado:  
+- [Vercel](https://vercel.com/)   
 
 ---
 
-## 📸 Prévia
+## 📸 Prévia Portólio
 
-👉 *(Adicione aqui um print do portfólio rodando ou um GIF)*  
-
+![alt text](image.png)
 ---
 
 ## 📬 Contato
@@ -89,7 +86,7 @@ Este portfólio pode ser hospedado facilmente em plataformas como:
 Se quiser trocar uma ideia, me chama:  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/igor-henrique-koehler-88b1a4266/)  
-- 📧 [Email] (igorkoehler15@gmail.com)  
+- 📧 [Email](igorkoehler15@gmail.com)  
 - 🖥️ [Meu Portfólio Online](https://seu-deploy.com)  
 
 ---
