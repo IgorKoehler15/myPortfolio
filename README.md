@@ -3,7 +3,7 @@
 Este é o repositório do meu portfólio pessoal, desenvolvido com **React + TypeScript + Vite**.  
 O objetivo é apresentar meus projetos, habilidades e um pouco sobre minha trajetória como estudante de programação.  
 
-## ✨ Funcionalidades
+## 🦾 Funcionalidades
 
 - 📌 Seções principais:
   - **Home / Hero** → apresentação inicial  
@@ -48,11 +48,11 @@ O objetivo é apresentar meus projetos, habilidades e um pouco sobre minha traje
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/IgorKoehler15/myPortfolio.git
    ```
 2. Entre na pasta do projeto:
    ```bash
-   cd seu-repo
+   cd myPortofolio
    ```
 3. Instale as dependências:
    ```bash
@@ -88,8 +88,8 @@ Este portfólio pode ser hospedado facilmente em plataformas como:
 
 Se quiser trocar uma ideia, me chama:  
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)  
-- 📧 Email: **seu-email@email.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/igor-henrique-koehler-88b1a4266/)  
+- 📧 [Email] (igorkoehler15@gmail.com)  
 - 🖥️ [Meu Portfólio Online](https://seu-deploy.com)  
 
 ---
