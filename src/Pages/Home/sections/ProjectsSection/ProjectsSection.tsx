@@ -1,6 +1,6 @@
 import { Box, Container, Grid, Typography, styled } from "@mui/material";
 import ProjectCard from "../../../../components/ProjectCard/ProjectCard";
-import type { ProjectCardProps } from "../../../../components/ProjectCard/ProjectCard"; 
+import type { ProjectCardProps } from "../../../../components/ProjectCard/ProjectCard";
 import AnimationComponent from "../../../../components/AnimationComponent/AnimationComponent";
 
 
@@ -13,12 +13,12 @@ const ProjectsSection: React.FC = () => {
 
     const projects = [
         {
-            title: "Project Exemple",
+            title: "HopeLink",
             subtitle: "Jul 2023 - Dez 2023",
             srcImg: "/src/assets/images/project-trello.png",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta semper velit vel rutrum. Aliquam vulputate, nisi eget tristique mattis, nisi sem faucibus eros, a auctor felis sem ut mauris. Phasellus a ultrices elit. Curabitur ut diam eu orci auctor pretium.",
             technologies: "Technologies: JavaScript, HTML, CSS, Canvas Graphics",
-            websiteURL: "https://trello.com/",
+            websiteURL: "https://hope-link-one.vercel.app/",
             codeURL: "https://github.com/",
         },
         {
@@ -48,7 +48,7 @@ const ProjectsSection: React.FC = () => {
             websiteURL: "https://adrianasaty.github.io/ironhack-project1-craze-maze/index.html",
             codeURL: "https://github.com/AdrianaSaty/ironhack-project1-craze-maze",
         },
-        
+
     ]
 
     return (

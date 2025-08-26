@@ -79,7 +79,7 @@ const HeroSection: React.FC = () => {
                             <Typewriter text="Information Systems Student" delay={120} variant="h2" color="primary.contrastText" />
                             <Box mt={3}>
                                 <Grid container spacing={3} display="flex" justifyContent="center">
-                                    <Grid item xs={10} md={4}>
+                                    <Grid item xs={10} md={5}>
                                         <StyledButton onClick={() => handleDownload()}>
                                             <DownloadIcon />
                                             <Typography>
@@ -87,11 +87,19 @@ const HeroSection: React.FC = () => {
                                             </Typography>
                                         </StyledButton>
                                     </Grid>
-                                    <Grid item xs={10} md={4}>
+                                    <Grid item xs={10} md={5}>
                                         <StyledButton onClick={() => handleEmail()}>
                                             <EmailIcon />
                                             <Typography>
                                                 Contact me
+                                            </Typography>
+                                        </StyledButton>
+                                    </Grid>
+                                    <Grid item xs={10} md={5}>
+                                        <StyledButton onClick={() => handleEmail()}>
+                                            <EmailIcon />
+                                            <Typography>
+                                                GitHub
                                             </Typography>
                                         </StyledButton>
                                     </Grid>
