@@ -72,7 +72,7 @@ O objetivo é apresentar meus projetos, habilidades e um pouco sobre minha traje
 ## 🌍 Deploy
 
 Link do portfólio hospedado:  
-- [Vercel](https://my-portfolio-xi-ashy-94.vercel.app/)   
+- [myPortfolio-Vercel](https://my-portfolio-xi-ashy-94.vercel.app/)   
 
 ---
 
