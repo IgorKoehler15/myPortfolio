@@ -6,7 +6,7 @@ import DownloadIcon from '@mui/icons-material/Download';
 import EmailIcon from '@mui/icons-material/Email';
 import GitHubIcon from '@mui/icons-material/GitHub'; 
 import StyledButton from "../../../../components/StyledButton/StyledButton";
-import CV from "../../../../assets/pdfs/Open.pdf"
+import CV from "../../../../assets/pdfs/curriculo_igorkoehler.pdf"
 
 const HeroSection: React.FC = () => {
 
