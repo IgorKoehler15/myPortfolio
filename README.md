@@ -72,7 +72,7 @@ O objetivo é apresentar meus projetos, habilidades e um pouco sobre minha traje
 ## 🌍 Deploy
 
 Link do portfólio hospedado:  
-- [Vercel](https://vercel.com/)   
+- [Vercel](https://my-portfolio-xi-ashy-94.vercel.app/)   
 
 ---
 
@@ -87,7 +87,7 @@ Se quiser trocar uma ideia, me chama:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/igor-henrique-koehler-88b1a4266/)  
 - 📧 Email: igorkoehler15@gmail.com  
-- 🖥️ [Meu Portfólio Online](https://seu-deploy.com)  
+- 🖥️ [Meu Portfólio Online](https://my-portfolio-xi-ashy-94.vercel.app/)  
 
 ---
 
