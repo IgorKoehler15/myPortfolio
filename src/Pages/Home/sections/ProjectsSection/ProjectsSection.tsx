@@ -14,41 +14,22 @@ const ProjectsSection: React.FC = () => {
     const projects = [
         {
             title: "HopeLink",
-            subtitle: "Jul 2023 - Dez 2023",
-            srcImg: "/src/assets/images/project-trello.png",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta semper velit vel rutrum. Aliquam vulputate, nisi eget tristique mattis, nisi sem faucibus eros, a auctor felis sem ut mauris. Phasellus a ultrices elit. Curabitur ut diam eu orci auctor pretium.",
-            technologies: "Technologies: JavaScript, HTML, CSS, Canvas Graphics",
+            subtitle: "Jun 2025",
+            srcImg: "/src/assets/images/video_hopelink.gif",
+            description: "EcoONG é uma aplicação web desenvolvida em React durante o curso de qualificação do programa Joinville Mais TEC, oferecido pelo LAB 365 (SENAI). Criada como projeto de conclusão do Módulo 1 – Desenvolvedor Web Front-End, a plataforma conecta usuários a ONGs ambientais, promovendo conscientização ecológica e simulando doações para causas sustentáveis.",
+            technologies: "Technologies: React, JavaScript, HTML, CSS, TypeScript",
             websiteURL: "https://hope-link-one.vercel.app/",
-            codeURL: "https://github.com/",
+            codeURL: "https://github.com/IgorKoehler15/HopeLink",
         },
         {
-            title: "Project Exemple",
-            subtitle: "Jul 2023 - Dez 2023",
-            srcImg: "/src/assets/images/project-financas.png",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta semper velit vel rutrum. Aliquam vulputate, nisi eget tristique mattis, nisi sem faucibus eros, a auctor felis sem ut mauris. Phasellus a ultrices elit. Curabitur ut diam eu orci auctor pretium.",
-            technologies: "Technologies: JavaScript, HTML, CSS, Canvas Graphics",
-            websiteURL: "https://trello.com/",
-            codeURL: "https://github.com/",
+            title: "Snake Game",
+            subtitle: "Ago 2025",
+            srcImg: "/src/assets/images/snakeGame.png",
+            description: "Este projeto é um jogo da cobrinha criado com HTML, CSS e JavaScript. O objetivo é guiar a cobra para coletar comidas e marcar pontos. Existem dois tipos de alimentos: a vermelha, que vale 10 pontos, e a especial amarela, que rende 30 pontos e aparece por tempo limitado. O jogo possui botões de start, pause e restart, além de um sistema de pontuação com recorde local. É uma versão moderna e responsiva do clássico.",
+            technologies: "Technologies: JavaScript, HTML, CSS",
+            websiteURL: "https://snake-game-black-three.vercel.app/",
+            codeURL: "https://github.com/IgorKoehler15/snakeGame",
         },
-        {
-            title: "Project Craze Maze",
-            subtitle: "Jul 2019 - May 2019",
-            srcImg: "/src/assets/images/project1-craze-maze.gif",
-            description: "Game to escape the maze, but not only that. An algorithm has been created that randomly generates a new maze each time the game is started. In this game, the user can use the keyboard keys to move until they find the flag and win the game",
-            technologies: "Technologies: JavaScript, HTML, CSS, Canvas Graphics",
-            websiteURL: "https://adrianasaty.github.io/ironhack-project1-craze-maze/index.html",
-            codeURL: "https://github.com/AdrianaSaty/ironhack-project1-craze-maze",
-        },
-        {
-            title: "Project Blotting",
-            subtitle: "Jul 2019 - May 2019",
-            srcImg: "/src/assets/images/project2-blotting.png",
-            description: "Game to escape the maze, but not only that. An algorithm has been created that randomly generates a new maze each time the game is started. In this game, the user can use the keyboard keys to move until they find the flag and win the game",
-            technologies: "Technologies: JavaScript, HTML, CSS, Canvas Graphics",
-            websiteURL: "https://adrianasaty.github.io/ironhack-project1-craze-maze/index.html",
-            codeURL: "https://github.com/AdrianaSaty/ironhack-project1-craze-maze",
-        },
-
     ]
 
     return (
