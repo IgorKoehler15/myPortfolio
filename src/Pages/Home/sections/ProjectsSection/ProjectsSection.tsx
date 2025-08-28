@@ -15,7 +15,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "HopeLink",
             subtitle: "Jun 2025",
-            srcImg: "/src/assets/images/video_hopelink.gif",
+            srcImg: "/src/assets/images/hopelink.gif",
             description: "EcoONG é uma aplicação web desenvolvida em React durante o curso de qualificação do programa Joinville Mais TEC, oferecido pelo LAB 365 (SENAI). Criada como projeto de conclusão do Módulo 1 – Desenvolvedor Web Front-End, a plataforma conecta usuários a ONGs ambientais, promovendo conscientização ecológica e simulando doações para causas sustentáveis.",
             technologies: "Technologies: React, JavaScript, HTML, CSS, TypeScript",
             websiteURL: "https://hope-link-one.vercel.app/",
@@ -24,7 +24,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Snake Game",
             subtitle: "Ago 2025",
-            srcImg: "/src/assets/images/snakeGame.png",
+            srcImg: "/src/assets/images/snake.png",
             description: "Este projeto é um jogo da cobrinha criado com HTML, CSS e JavaScript. O objetivo é guiar a cobra para coletar comidas e marcar pontos. Existem dois tipos de alimentos: a vermelha, que vale 10 pontos, e a especial amarela, que rende 30 pontos e aparece por tempo limitado. O jogo possui botões de start, pause e restart, além de um sistema de pontuação com recorde local. É uma versão moderna e responsiva do clássico.",
             technologies: "Technologies: JavaScript, HTML, CSS",
             websiteURL: "https://snake-game-black-three.vercel.app/",
