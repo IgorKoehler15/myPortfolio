@@ -85,7 +85,7 @@ Link do portfólio hospedado:
 
 Se quiser trocar uma ideia, me chama:  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/igor-henrique-koehler-88b1a4266/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/igor-koehler/)  
 - 📧 Email: igorkoehler15@gmail.com  
 - 🖥️ [Meu Portfólio Online](https://my-portfolio-xi-ashy-94.vercel.app/)  
 
